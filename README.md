@@ -8,3 +8,12 @@ A Chrome Devtool Theme Based Upon Monokai Darkness Reborn And Zero Dark Matrix.
 * Enable Developer Tools experiments and click "Relaunch Now" at the bottom.
 * Open developer tools settings -> Experiments -> Allow custom UI themes. 
 * Reopen the developer tools.
+
+#### Note:-
+
+Only works in stable Chrome version does not work in Chrome Canary.
+
+
+### Pictures:-
+
+#### Note:-
