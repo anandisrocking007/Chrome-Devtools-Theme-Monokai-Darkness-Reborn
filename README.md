@@ -16,4 +16,7 @@ Only works in stable Chrome version does not work in Chrome Canary.
 
 ### Pictures:-
 
-#### Note:-
+#### Sidebar:-
+![image.png](https://s33.postimg.org/m7j0g1p9b/Capture.png)
+
+
