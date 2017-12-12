@@ -22,9 +22,15 @@ Only works in stable Chrome version does not work in Chrome Canary.
 
 #### Undocked:-
 ![image.png](https://s33.postimg.org/3t8hc0n8f/image.png)
+
 ![image.png](https://s33.postimg.org/4ir9oe37j/image.png)
+
 ![image.png](https://s33.postimg.org/7cuf1vfof/image.png)
+
 ![image.png](https://s33.postimg.org/fv3v681mn/image.png)
+
 ![image.png](https://s33.postimg.org/smi1cqyjz/image.png)
+
 ![image.png](https://s33.postimg.org/8gejda2q7/image.png)
+
 ![image.png](https://s33.postimg.org/3uif4yc27/image.png)
